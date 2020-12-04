@@ -35,4 +35,4 @@ Todo lista za nadopunu programa:
 
 [ ] Ispisati sumu znamenki broja
 
-[Povratak na vrh](#markdown-vjezba)
+[Povratak na vrh](#markdown-vježba)
