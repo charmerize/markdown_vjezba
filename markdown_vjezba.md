@@ -4,7 +4,7 @@ Ovo je dokument :memo: koji prezentira moj `c++` kod :smiley:
 
 ## Program
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 
